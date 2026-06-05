@@ -1,0 +1,2 @@
+- [AND VS MEX ](https://ac.nowcoder.com/acm/contest/116658/F) `核心:判断子序列and之和为x.`
+- 

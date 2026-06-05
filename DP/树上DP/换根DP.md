@@ -1,0 +1,3 @@
+- [医院设置 ](https://www.luogu.com.cn/problem/P1364) `带权树重心`
+- [P3478 [POI 2008\] STA-Station](https://www.luogu.com.cn/problem/P3478) `以u为根的深度之和最小`
+- 
